@@ -10,11 +10,9 @@ A modern, lightweight messaging application built with **Flutter** and powered b
 * **Modern UI:** Clean interface with distinct message bubbles for senders and receivers.
 * **Typewriter Effect:** engaging text animations on the welcome screen.
 
-## Screenshots
+# Screenshots
 
-| Welcome Screen | Login Screen | Chat Screen |
-|:---:|:---:|:---:|
-| <img src="demo/flash_chat_flutter_demo.gif.png" width="200"> 
+<img src="demo/flash_chat_flutter_demo.gif" width="200">
 ## Tech Stack
 
 * **Framework:** [Flutter](https://flutter.dev/) (Dart)
