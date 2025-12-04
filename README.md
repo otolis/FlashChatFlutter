@@ -13,6 +13,7 @@ A modern, lightweight messaging application built with **Flutter** and powered b
 # Screenshots
 
 <img src="demo/flash_chat_flutter_demo.gif" width="200">
+
 ## Tech Stack
 
 * **Framework:** [Flutter](https://flutter.dev/) (Dart)
